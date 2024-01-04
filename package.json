@@ -1,0 +1,14 @@
+{
+  "name": "cwh",
+  "version": "1.0.0",
+  "description": "This is the pacakage we created while studying npm express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ananya",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
